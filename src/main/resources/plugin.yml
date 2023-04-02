@@ -1,0 +1,5 @@
+name: EscapeLava
+author: Sherko
+main: com.sherko.escapelava.Main
+version: "1.0.0"
+api: ["1.0.0"]
